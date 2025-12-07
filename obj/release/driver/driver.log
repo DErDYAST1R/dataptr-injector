@@ -1,0 +1,8 @@
+﻿  Building 'driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\home\Desktop\driv\injector\drivver\inj driver\obj\release\driver\driver.inf
+  Stamping [Version] section with DriverVer=12/05/2024,10.56.21.133
+  entry.cpp
+  driver.vcxproj -> C:\Users\home\Desktop\driv\injector\drivver\inj driver\bin\release\driver.sys
+  Driver is 'Universal'.
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
