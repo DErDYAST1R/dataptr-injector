@@ -7,4 +7,4 @@ A Dataptr Com Injector made for personal use in combination with Code Virtualizo
 
 [ This project was initially developed to be used with a valid MPN & Code Signing Certificate (With Cloud Storage), Made for public use now. If you want this to work properly write using physical memory & DTB and use my GDRVMapper ]
 
-discord `bloodieys`
+discord `s.n.o.w.l.e.o.p.a.r.d`
